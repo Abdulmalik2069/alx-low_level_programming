@@ -13,6 +13,6 @@ int _isupper(int c)
 	}
 	else
 	{
-		return (o);
+		return (0);
 	}
 }
